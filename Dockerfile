@@ -2,7 +2,7 @@
 FROM debian:wheezy
 
 # feel free to change this ;)
-MAINTAINER James S. Moore<james@webtechhq.com>
+MAINTAINER James S. Moore <james@webtechhq.com>
 
 # properly setup debian sources
 ENV DEBIAN_FRONTEND noninteractive
